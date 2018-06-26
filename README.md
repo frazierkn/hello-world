@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-  <link href="https://github.com/frazierkn/hello-world/blob/master/style.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="https://github.com/frazierkn/hello-world/blob/master/style.css" rel="stylesheet" />
   </head>
   <body>
 
