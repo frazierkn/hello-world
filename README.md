@@ -1,12 +1,14 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-  <link rel="stylesheet" type="text/css" href="https://github.com/frazierkn/hello-world/blob/master/style.css" rel="stylesheet" />
-  </head>
+    </head>
   <body>
 
-<h1>hello-world</h1>
-starting out
+<h1>Hello World!</h1>
+<h3>My name is Katherine.</h3>
+
+I am brand new to Github
+
 
 
 </body>
